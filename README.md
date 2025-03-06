@@ -19,6 +19,10 @@
 ### Overview results
 <img width="1175" alt="mimiccxr+vindrcxr(modified)_metrics" src="https://github.com/user-attachments/assets/a822fa28-c8b6-4a48-9698-9655ef9133da" />
 
+### Lung Opacity recall improvement after modification
+
+<img width="400" alt="lung_opacity_recall_before_after" src="https://github.com/user-attachments/assets/2c7617da-d8c2-4c71-902b-961410f6823f" />
+
 ### Classification on VinDr-CXR modified (breakdown per class)
 ![auprc_per_class_vindrcxr(modified)_test_set](https://github.com/user-attachments/assets/80d08e0f-3f1e-4d5f-b8a5-f159071524ae)
 
