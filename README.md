@@ -32,3 +32,7 @@
 
 ### Detection on VinDr-CXR
 <img width="677" alt="miccai_2025_detection_table+example" src="https://github.com/user-attachments/assets/0ca05698-b87e-4361-9b0c-1c45da8c17ca" />
+
+# MIMIC-CXR report annotation example
+
+<img width="1025" alt="miccai_2025_report_example" src="https://github.com/user-attachments/assets/e1d703e4-7c38-43c1-8191-cce50d7af42c" />
