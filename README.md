@@ -1,5 +1,9 @@
 # MICCAI2025-FG-VLM (submission #4469)
 
+FG-VLM: A Fact-Guided Vision-Language Model
+for Visual Grounding and Binary Factual
+Question Answering in Chest X-ray Analysis
+
 # Model
 ![miccai_2025_model](https://github.com/user-attachments/assets/05e087c7-2aee-4720-a1bb-72305a4a281c)
 
